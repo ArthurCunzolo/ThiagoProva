@@ -2,6 +2,10 @@
 
 .emec > a > img{max-height:98px;}
 
+.criadores{float:right;}
+
+.criadores > a > img{max-height:98px;}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
