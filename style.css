@@ -2,7 +2,10 @@
 
 .emec > a > img{max-height:98px;}
 
-.arthur{float:right;}
+.arthur{
+    img-align: Right;
+    border-radius: 50% 20% / 10% 40%;
+}
 
 body {
     font-family: Arial, sans-serif;
